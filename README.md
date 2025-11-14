@@ -43,3 +43,11 @@ Note: Make sure you have the necessary dependencies and Android SDK installed to
 - Enjoy the smooth and uninterrupted playback experience powered by ExoPlayer.
 - Experience optimized video loading and network usage with pagination.
 
+
+## Team Members
+
+- Shashank Shekhar
+- Harsh Raj
+- Vishal Maruti Mukkanavar
+
+
